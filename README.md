@@ -10,10 +10,10 @@
 
 ## Connect with me:
 
-[<img aling="left" alt="linkedin" width: "22px" src="https://image.flaticon.com/icons/png/512/1051/1051384.png" />][linkedin]
-[<img aling="left" alt="twitter" width: "22px" src="https://image.flaticon.com/icons/png/512/1051/1051382.png" />][twitter]
-[<img aling="left" alt="instagram" width: "22px" src="https://image.flaticon.com/icons/png/512/1051/1051364.png" />][instagram]
-[<img aling="left" alt="instagram" width: "22px" src="https://image.flaticon.com/icons/png/512/1051/1051360.png" />][facebook]
+[<img aling="left" alt="linkedin" width: "22px" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" />][linkedin]
+[<img aling="left" alt="twitter" width: "22px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
+[<img aling="left" alt="instagram" width: "22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
+[<img aling="left" alt="instagram" width: "22px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />][facebook]
 
 <br/>
 <br/>
