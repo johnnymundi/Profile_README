@@ -47,7 +47,14 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnymundi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnymundi&show_icons=true&theme=dracula)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnymundi&repo=get_translation_ExPASy)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymundi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
 <br/>
