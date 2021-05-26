@@ -13,7 +13,7 @@
 [<img align="left" alt="johnnymundi | linkedin" width: "22px" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" />][linkedin]
 [<img align="left" alt="johnnymundi | twitter" width: "22px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
 [<img align="left" alt="johnnymundi | instagram" width: "22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />][twitter]
+[<img align="left" alt="johnnymundi | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />][twitter]
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
