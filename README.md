@@ -10,8 +10,8 @@
 
 ## Connect with me:
 
-[<img align="left" alt="johnnymundi | Linkedin" width="60px" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" />][linkedin]
-[<img align="left" alt="johnnymundi | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
+[<img align="left" alt="johnnymundi | Linkedin" width="90px" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" />][linkedin]
+[<img align="left" alt="johnnymundi | Twitter" width="40px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
 [<img align="left" alt="johnnymundi | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
 [<img align="left" alt="johnnymundi | Facebook" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />][facebook]
 
