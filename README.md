@@ -1,11 +1,11 @@
 ## Hi there! I'm JohNNy!
 
-### I'm a Biologist by day and Developer by night!
+### I'm a Web Developer and Bioinformatics Student!
 
 - :dna: I'm currently doing a PhD in Genetics where I work with Bioinformatics
 - :snake: I have a solid knowledge of the basics of Python, which is the language that most of my scripts are made of (for automation of simple tasks for my PhD)
 - :floppy_disk: I'm in my second to last year as a distance education (aka, EaD in portuguese Brazil) student in Analysis and System Development at Wyden
-- :desktop_computer: I also like to learn all kinds of new technologies and frameworks!
+- :desktop_computer: I also like to learn all kinds of new technologies and frameworks! Currently, I'm in love with Node.js and trying to consolidate all my knowledge as a Fullstack Web Developer
 - :video_game: I have been adventuring myself through the lands of Game Development as well, but I do know I'm still on level 1 :'(
 
 ---
