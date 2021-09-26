@@ -60,6 +60,6 @@
 <br/>
 
 [twitter]: https://twitter.com/johnnymundi
-[linkedin]: https://linkedin.com/in/johnny-sousa-487435a8/
+[linkedin]: https://www.linkedin.com/in/johnny-sousa-ferreira-487435a8/
 [instagram]: https://www.instagram.com/johnnysf/
 [facebook]: https://www.facebook.com/johnnymundi/
