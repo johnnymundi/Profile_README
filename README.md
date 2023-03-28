@@ -15,7 +15,6 @@
 ### Where to find me:
 
 [<img align="left" alt="johnnymundi | Linkedin" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="johnnymundi | Twitter" width="32px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
 [<img align="left" alt="johnnymundi | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
 [<img align="left" alt="johnnymundi | Facebook" width="22px" src="https://www.svgrepo.com/show/111203/facebook.svg" />][facebook]
 
@@ -61,7 +60,6 @@
 <br/>
 <br/>
 
-[twitter]: https://twitter.com/johnnymundi
 [linkedin]: https://www.linkedin.com/in/johnny-sousa-ferreira-487435a8/
 [instagram]: https://www.instagram.com/johnnysf/
 [facebook]: https://www.facebook.com/johnnymundi/
