@@ -4,11 +4,11 @@
 
 - :dna: I'm currently doing a PhD in Genetics where I work with Bioinformatics in the identification of chemosensory receptors in amphibians
 - :snake: I have a solid knowledge of the basics of Python, which is the language that some of my scripts are made of (for automation of simple tasks for my PhD)
-- :japanese_castle: For 3 months I studied Perl with one of the most amazing programmers I've ever met, Dr. Yoshihito Niimura in Miyazaki, Japan (Although he did not see himself as a developer) and this direct work provided many scripts that I used in my PhD and once in a life time experience
+- :japanese_castle: For 3 months I studied Perl with one of the most amazing programmers I've ever met, Dr. Yoshihito Niimura in Miyazaki, Japan (Although he did not see himself as a developer) and this direct work provided many scripts that I used in my PhD and, of course, it was a once in a life time experience
 - :space_invader: I've been working for a year and a half as a full stack developer (Angular/Node/MongDB)
 - :floppy_disk: I'm graduated in Analysis and System Development at Wyden (Estácio de Sá Institute)
-- :desktop_computer: I also like to learn all kinds of new technologies and frameworks! Currently, I'm in love with Node.js and trying to consolidate all my knowledge as a Fullstack Web Developer (right know I'm trying to jump from Angular to React)
-- :video_game: I have been adventuring myself through the lands of Game Development as well, but I do know I'm still on level 1 :'(
+- :desktop_computer: I also like to learn all kinds of new technologies and frameworks! Currently, I'm in love with Node.js and trying to consolidate all my knowledge as a Fullstack Web Developer (right know I'm trying to jump from Angular to React and learning Django)
+- :video_game: I have been adventuring myself through the lands of Game Development as well, because I have experience with Lua, but I do know I'm still on level 1 :'(
 
 ---
 
@@ -41,6 +41,9 @@
 <img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 <img align="left" alt="Love2D" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/05/icon_QyS3RIm.png" />
 <img align="left" alt="Lua" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/lua-2336956-1982837.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" />
+<img align="left" alt="Angular" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" />
+<img align="left" alt="Node" width="26px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />
 
 
 <br/>
