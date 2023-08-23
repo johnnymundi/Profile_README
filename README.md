@@ -2,13 +2,13 @@
 
 ### I'm a Web Developer and Bioinformatics Student!
 
-- :dna: I'm currently doing a PhD in Genetics where I work with Bioinformatics in the identification of chemosensory receptors in amphibians
-- :snake: I have a solid knowledge of the basics of Python, which is the language that some of my scripts are made of (for automation of simple tasks for my PhD)
-- :japanese_castle: For 3 months I studied Perl with one of the most amazing programmers I've ever met, Dr. Yoshihito Niimura in Miyazaki, Japan (Although he did not see himself as a developer) and this direct work provided many scripts that I used in my PhD and, of course, it was a once in a life time experience
-- :space_invader: I've been working for a year and a half as a full stack developer (Angular/Node/MongDB)
-- :floppy_disk: I'm graduated in Analysis and System Development at Wyden (Estácio de Sá Institute)
-- :desktop_computer: I also like to learn all kinds of new technologies and frameworks! Currently, I'm in love with Node.js and trying to consolidate all my knowledge as a Fullstack Web Developer (right know I'm trying to jump from Angular to React and learning Django)
-- :video_game: I have been adventuring myself through the lands of Game Development as well, because I have experience with Lua, but I do know I'm still on level 1 :'(
+- :dna: I'm finishing my PhD in Genetics where I work with Bioinformatics in the identification of chemosensory receptors in amphibians
+- :snake: I have a solid knowledge of Python, which is the language that some of my scripts are made of (for automation of simple tasks for my PhD) and, because of that, I have a good knowledge of Django as well.
+- :japanese_castle: For 3 months I studied Perl with one of the most amazing programmers I've ever met, Dr. Yoshihito Niimura in Miyazaki, Japan (Although he did not see himself as a developer) and this direct work provided many scripts that I used in my PhD and, of course, it was a once in a life time experience.
+- :space_invader: I've been working for over 2 years as a Full Stack developer (React/Angular/Node//Django/MongoDB/SQL)
+- :floppy_disk: I graduated in Analysis and System Development at Wyden (Estácio de Sá Institute)
+- :desktop_computer: I'm always uploading new full stack repertoires involving the languages and frameworks I work with.
+- :video_game: I have been adventuring myself through the lands of Game Development (Specially C#) as well, because I have experience with Lua, but I do know I'm still on level 1 :'(
 
 ---
 
@@ -29,6 +29,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sublime" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
 <img align="left" alt="Python" width="26px" src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg />
+<img align="left" alt="Perl" width="26px" src=https://cdn.icon-icons.com/icons2/2699/PNG/512/perl_logo_icon_168908.png />
 <img align="left" alt="JavaScript" width="26px" src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -43,6 +44,7 @@
 <img align="left" alt="Lua" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/lua-2336956-1982837.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" />
 <img align="left" alt="Angular" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" />
+<img align="left" alt="React" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png />
 <img align="left" alt="Node" width="26px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />
 
 
