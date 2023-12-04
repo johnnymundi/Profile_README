@@ -1,13 +1,10 @@
-## Hi there! I'm JohNNy!
+## Hello there! (General Kenobi!)
+### Software developer full picareta
 
-### I'm a Fullstack Developer (e.g. Fullstack e picareta)!
-
-- :dna: I have a PhD in Genetics where I worked with Bioinformatics in the identification of chemosensory receptors in amphibians
-- :snake: I have a solid knowledge of Python and I have a good knowledge of Django as well (of course, cof cof).
-- :japanese_castle: For 3 months I studied Perl with one of the most amazing programmers I've ever met, Dr. Yoshihito Niimura in Miyazaki, Japan (Although he did not see himself as a developer) and this direct work provided many scripts that I used in my PhD and, of course, it was a once in a life time experience.
-- :space_invader: I've been working for over 3 years as a Full Stack developer (React/Angular/Node/Django/MongoDB/SQL)
-- :floppy_disk: I graduated in Analysis and System Development at Wyden (Estácio de Sá Institute)
-- :desktop_computer: I'm always uploading new full stack repertoires involving the languages and frameworks I work with, specially Angular React + Django + NodeJs.
+ - Especialist in Angular and currently switching to React
+ - Great (awesome) knowledge in Python, with a very good touch of Django (one, two, three, Django!)
+ - Great (uaaii) knowledge in Node.js because it is kind of easy (kkkkk - laughs in brazilian)
+ - Likes to work with command line for picaretagens
 - 
 ---
 
